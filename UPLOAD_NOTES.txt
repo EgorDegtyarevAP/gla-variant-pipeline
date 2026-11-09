@@ -1,0 +1,12 @@
+Two items in this folder were renamed so that a web browser will upload them.
+After the upload, create them in GitHub by hand (Add file -> Create new file):
+
+  gitignore.txt            ->  .gitignore
+  github_workflows_ci/ci.yml ->  .github/workflows/ci.yml
+
+Open each renamed file here, copy its contents, paste into the new file on
+GitHub, then delete the renamed copy from the repository.
+
+data/raw/galafold_amenability.csv is deliberately ABSENT from this folder:
+it is the proprietary Amicus amenability table and must not be published.
+Its SHA-256 stays recorded in data/raw/MANIFEST.jsonl.

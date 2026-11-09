@@ -1,0 +1,25 @@
+reference:
+  transcript: NM_000169          # confirm version in LOG.md at download time
+  protein: P06280                # UniProt
+  genome_build: GRCh38
+structure:
+  pdb_ids: [3GXT, 3GXP]          # choose one after completeness check (stage 4)
+  use_biological_assembly: true  # RSA on dimer
+samples:                         # see docs/samples.md
+  S_all: all variants
+  S_mis: missense only
+  S_amen: S_mis with amenability_status != NA
+  S_path: S_mis with ClinVar P/LP
+stats:
+  alpha: 0.05
+  multiple_testing: benjamini_hochberg
+  permutations: 10000
+  window: 20
+  random_seed: 20261021
+conservation:
+  alignment: Human_GLA_orthologues.fa     # codon-aware nucleotide MSA, 198 rows, human = ENSP00000218516_Hsap
+  min_coverage: 0.80          # share of human codons with an unambiguous aligned codon
+  min_identity: 0.55          # aa identity to human; below it orthology vs paralog (NAGA-like) cannot be separated by identity alone
+  one_per_species: true       # keep the row with the highest identity x coverage
+  min_nongap_weight: 0.70     # a position is 'valid' for conservation metrics if >= this weighted share of kept orthologs cover it
+  weighting: henikoff         # main; unweighted reported as sensitivity

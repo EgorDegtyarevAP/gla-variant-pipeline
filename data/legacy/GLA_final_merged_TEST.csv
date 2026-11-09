@@ -1,0 +1,101 @@
+variant_id,c.change,p.change,source,clinical_significance,review_status,phenotype,last_evaluated,rsid,origin,population_frequency,gnomad_groupmax_faf,revel_score,sift_score,polyphen_score,cadd_score,amenability_status
+222092,c.-105A>G,,ClinVar,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",Fabry disease|not provided,"Jan 13, 2018",3027583,germline,,,,,,,not_in_amenability_table
+3349096,c.-10C>A,,ClinVar,Uncertain significance,"criteria provided, single submitter","GLA-related disorder|Fabry disease|Thyroid cancer, nonmedullary, 1","Sep 15, 2025",-1,germline,,,,,,,not_in_amenability_table
+36280,c.-10C>T,,ClinVar,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",Cardiomyopathy|not specified|Fabry disease|not provided,"Jan 26, 2026",2071225,germline,,,,,,,not_in_amenability_table
+222091,c.-125T>G,,ClinVar,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not provided,"Mar 03, 2015",185255090,germline,,,,,,,not_in_amenability_table
+42449,c.-12G>A,,ClinVar,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|Fabry disease|not provided,"Nov 17, 2025",3027585,germline,,,,,,,not_in_amenability_table
+379148,c.-13G>C,,ClinVar,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",not specified|Fabry disease,"Nov 17, 2025",782051708,germline,,,,,,,not_in_amenability_table
+222095,c.-15C>T,,ClinVar,Likely benign,"criteria provided, single submitter",Fabry disease,"Apr 06, 2020",782422036,germline,,,,,,,not_in_amenability_table
+3070228,c.-1A>C,,ClinVar,Uncertain significance,"criteria provided, multiple submitters, no conflicts",Fabry disease,"Sep 15, 2025",1555987235,germline,,,,,,,not_in_amenability_table
+504452,c.-1A>G,,ClinVar,Uncertain significance,"criteria provided, multiple submitters, no conflicts",not provided|Fabry disease,"Sep 15, 2025",1555987235,germline,,,,,,,not_in_amenability_table
+682310,c.-24T>G,,ClinVar,Likely benign,"criteria provided, single submitter",not provided,"May 01, 2018",1603048396,germline,,,,,,,not_in_amenability_table
+926162,c.-2C>T,,ClinVar,Uncertain significance,"criteria provided, multiple submitters, no conflicts",Fabry disease,"Sep 15, 2025",1928603344,germline,,,,,,,not_in_amenability_table
+218430,c.-30G>A,,ClinVar,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",Fabry disease|not specified|not provided,"Dec 08, 2025",3027584,germline,,,,,,,not_in_amenability_table
+390357,c.-32G>A,,ClinVar,Likely benign,"criteria provided, single submitter",not specified,"Nov 01, 2016",1057523740,germline,,,,,,,not_in_amenability_table
+4087100,c.-40G>C,,ClinVar,Uncertain significance,"criteria provided, single submitter",Fabry disease,"Sep 15, 2025",782048102,germline,,,,,,,not_in_amenability_table
+222100,c.-44C>G,,ClinVar,Likely benign,"criteria provided, single submitter",not specified,"Jan 04, 2017",781906252,germline,,,,,,,not_in_amenability_table
+222101,c.-44C>T,,ClinVar,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",not provided|Fabry disease,"Sep 15, 2025",781906252,germline,,,,,,,not_in_amenability_table
+4086932,c.-4G>A,,ClinVar,Uncertain significance,"criteria provided, single submitter",Fabry disease,"Sep 15, 2025",-1,germline,,,,,,,not_in_amenability_table
+928720,c.-79G>A,,ClinVar,Uncertain significance,"criteria provided, multiple submitters, no conflicts",not specified|Fabry disease,"Sep 15, 2025",1928609406,germline,,,,,,,not_in_amenability_table
+927899,c.-7C>T,,ClinVar,Uncertain significance,"criteria provided, multiple submitters, no conflicts",Fabry disease,"Sep 15, 2025",782637185,germline,,,,,,,not_in_amenability_table
+163550,c.-8C>G,,ClinVar,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|Fabry disease|Cardiomyopathy|GLA-related disorder,"Sep 15, 2025",371291716,germline,,,,,,,not_in_amenability_table
+222110,c.1000-10G>A,,ClinVar,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",Fabry disease,"Sep 15, 2025",869312203,germline,,,,,,,not_in_amenability_table
+1133500,c.1000-10G>C,,ClinVar,Likely benign,"criteria provided, single submitter",Fabry disease,"Oct 31, 2021",869312203,germline,,,,,,,not_in_amenability_table
+42450,c.1000-14T>C,,ClinVar,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",not specified|Fabry disease|not provided,"Dec 14, 2025",397515868,germline,,,,,,,not_in_amenability_table
+2573377,c.1000-14dup,,ClinVar,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",not specified|Fabry disease,"Dec 20, 2024",782561648,germline,,,,,,,not_in_amenability_table
+2167050,c.1000-15T>C,,ClinVar,Likely benign,"criteria provided, single submitter",Fabry disease,"Feb 16, 2024",2520855702,germline,,,,,,,not_in_amenability_table
+2708959,c.1000-17C>T,,ClinVar,Likely benign,"criteria provided, single submitter",Fabry disease,"Jan 11, 2024",2520855738,germline,,,,,,,not_in_amenability_table
+2998568,c.1000-18_1000-17del,,ClinVar,Likely benign,"criteria provided, single submitter",Fabry disease,"Aug 30, 2023",782298988,germline,,,,,,,not_in_amenability_table
+222111,c.1000-1G>A,,ClinVar,Pathogenic,"criteria provided, multiple submitters, no conflicts",Fabry disease|not provided,"Sep 15, 2025",869312204,germline,,,,,,,not_in_amenability_table
+4087232,c.1000-1G>C,,ClinVar,Pathogenic,"criteria provided, multiple submitters, no conflicts",Fabry disease,"Sep 15, 2025",-1,germline,,,,,,,not_in_amenability_table
+4461152,c.1000-1G>T,,ClinVar,-,-,"Thyroid cancer, nonmedullary, 1",-,-1,not applicable,,,,,,,not_in_amenability_table
+4811985,c.1000-20A>G,,ClinVar,Likely benign,"criteria provided, single submitter",Fabry disease,"Mar 07, 2025",-1,germline,,,,,,,not_in_amenability_table
+222112,c.1000-22C>T,,ClinVar,Benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided|Fabry disease,"Sep 15, 2025",2071228,germline,,,,,,,not_in_amenability_table
+4087133,c.1000-25_1000-24del,,ClinVar,Uncertain significance,"criteria provided, single submitter",Fabry disease,"Sep 15, 2025",-1,germline,,,,,,,not_in_amenability_table
+4087229,c.1000-2A>G,,ClinVar,Pathogenic,"criteria provided, single submitter","Fabry disease|Thyroid cancer, nonmedullary, 1","Sep 15, 2025",-1,germline,,,,,,,not_in_amenability_table
+4087230,c.1000-2A>T,,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 15, 2025",-1,germline,,,,,,,not_in_amenability_table
+3655124,c.1000-4T>G,,ClinVar,Likely benign,"criteria provided, single submitter",Fabry disease,"May 31, 2024",-1,germline,,,,,,,not_in_amenability_table
+4461153,c.1000-5T>G,,ClinVar,-,-,Ovarian serous cystadenocarcinoma,-,-1,not applicable,,,,,,,not_in_amenability_table
+1263704,c.1000-67del,,ClinVar,Benign,"criteria provided, single submitter",not provided,"Mar 03, 2015",2147471526,germline,,,,,,,not_in_amenability_table
+4461154,c.1000-6T>A,,ClinVar,-,-,Ovarian serous cystadenocarcinoma,-,-1,not applicable,,,,,,,not_in_amenability_table
+1116655,c.1000-9G>A,,ClinVar,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",Fabry disease,"Oct 08, 2025",1928143594,germline,,,,,,,not_in_amenability_table
+1955660,c.1000G>A,p.Gly334Arg,ClinVar,Uncertain significance,"criteria provided, single submitter",Fabry disease,"Apr 30, 2022",2520855305,germline,,,,,,,not_in_amenability_table
+4461151,c.1000G>T,p.Gly334Ter,ClinVar,-,-,Nonpapillary renal cell carcinoma,-,-1,not applicable,,,,,,,not_in_amenability_table
+3073744,c.1001G>A,p.Gly334Glu,ClinVar,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",Fabry disease,"Sep 19, 2025",782690996,germline,,,,,,,not_in_amenability_table
+566012,c.1007A>C,p.Asn336Thr,ClinVar,Uncertain significance,"criteria provided, multiple submitters, no conflicts",Fabry disease,"Sep 18, 2023",1569302786,germline,,,,,,,not_in_amenability_table
+516472,c.1008C>T,p.Asn336=,ClinVar,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|Fabry disease|not provided|Cardiovascular phenotype,"Jan 07, 2026",901454780,germline,,,,,,,not_in_amenability_table
+4087451,c.100A>C,p.Asn34His,ClinVar,Likely pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 19, 2025",-1,germline,,,,,,,amenable
+498630,c.100A>G,p.Asn34Asp,ClinVar,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",not provided|Fabry disease,"Sep 19, 2025",1555987150,germline,,,,,,,amenable
+4087614,c.1010T>C,p.Phe337Ser,ClinVar,Likely pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 19, 2025",-1,germline,,,,,,,not_in_amenability_table
+4087615,c.1012G>A,p.Glu338Lys,ClinVar,Likely pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 19, 2025",-1,germline,,,,,,,not_in_amenability_table
+4087189,c.1012G>T,p.Glu338Ter,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 15, 2025",-1,germline,,,,,,,not_in_amenability_table
+1384869,c.1015G>C,p.Val339Leu,ClinVar,Uncertain significance,"criteria provided, single submitter",Fabry disease,"Jan 05, 2026",2147471344,germline,,,,,,,not_in_amenability_table
+2907591,c.1016T>A,p.Val339Glu,ClinVar,Uncertain significance,"criteria provided, multiple submitters, no conflicts",Fabry disease,"Sep 19, 2025",869312211,germline,,,,,,,not_in_amenability_table
+222122,c.1016T>C,p.Val339Ala,ClinVar,Uncertain significance,"criteria provided, multiple submitters, no conflicts",Fabry disease|Steroid-resistant nephrotic syndrome,"Sep 15, 2025",869312211,germline,,,,,,,not_in_amenability_table
+4087617,c.1016T>G,p.Val339Gly,ClinVar,Likely pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 19, 2025",-1,germline,,,,,,,not_in_amenability_table
+4087037,c.1016_1026del,p.Val339fs,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 15, 2025",-1,germline,,,,,,,not_in_amenability_table
+1632412,c.1017G>A,p.Val339=,ClinVar,Likely benign,"criteria provided, multiple submitters, no conflicts",Fabry disease,"Feb 22, 2024",869312212,germline,,,,,,,not_in_amenability_table
+4078778,c.1018T>A,p.Trp340Arg,ClinVar,Uncertain significance,"criteria provided, single submitter",not provided,"Feb 15, 2024",-1,germline,,,,,,,not_in_amenability_table
+546086,c.1018T>C,p.Trp340Arg,ClinVar,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",not provided|Fabry disease,"Sep 19, 2025",1555984869,germline,,,,,,,not_in_amenability_table
+2138660,c.1019G>A,p.Trp340Ter,ClinVar,Pathogenic,"criteria provided, multiple submitters, no conflicts",Fabry disease|GLA-related disorder|Cardiovascular phenotype,"Sep 15, 2025",730880440,germline,,,,,,,not_in_amenability_table
+4087618,c.1019G>C,p.Trp340Ser,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 19, 2025",-1,germline,,,,,,,not_in_amenability_table
+92537,c.1019_1020insA,p.Trp340Ter,ClinVar,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",Fabry disease|not provided,"Jul 09, 2025",398123197,germline,,,,,,,not_in_amenability_table
+10724,c.101A>G,p.Asn34Ser,ClinVar,Pathogenic,"criteria provided, multiple submitters, no conflicts",Fabry disease|not provided,"Sep 19, 2025",104894835,germline,,,,,,,amenable
+1399124,c.101_105del,p.Asn34fs,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Aug 09, 2021",2147487375,germline,,,,,,,not_in_amenability_table
+10741,c.1020G>A,p.Trp340Ter,ClinVar,Pathogenic,"criteria provided, multiple submitters, no conflicts",Fabry disease|not provided,"Dec 08, 2025",104894842,germline,,,,,,,not_in_amenability_table
+222125,c.1021G>A,p.Glu341Lys,ClinVar,Pathogenic,"criteria provided, multiple submitters, no conflicts",Fabry disease,"Sep 19, 2025",869312214,germline,,,,,,,not_in_amenability_table
+495689,c.1021G>T,p.Glu341Ter,ClinVar,Pathogenic,"criteria provided, multiple submitters, no conflicts",Fabry disease,"Sep 15, 2025",869312214,germline,,,,,,,not_in_amenability_table
+4087039,c.1021_1022insT,p.Glu341fs,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 15, 2025",-1,germline,,,,,,,not_in_amenability_table
+4087038,c.1021del,p.Glu341fs,ClinVar,Pathogenic,"criteria provided, multiple submitters, no conflicts",Fabry disease,"Oct 11, 2025",-1,germline,,,,,,,not_in_amenability_table
+4087040,c.1021dup,p.Glu341fs,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 15, 2025",869312213,germline,,,,,,,not_in_amenability_table
+1763194,c.1022A>C,p.Glu341Ala,ClinVar,Uncertain significance,"criteria provided, single submitter",Cardiovascular phenotype,"Jan 08, 2020",2520854786,germline,,,,,,,not_in_amenability_table
+4087619,c.1022A>G,p.Glu341Gly,ClinVar,Likely pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 19, 2025",-1,germline,,,,,,,not_in_amenability_table
+167136,c.1023A>C,,ClinVar,Pathogenic,"criteria provided, multiple submitters, no conflicts",not provided|Fabry disease,"Sep 19, 2025",797044497,germline,,,,,,,not_in_amenability_table
+291188,c.1023del,p.Glu341fs,ClinVar,Pathogenic,"criteria provided, multiple submitters, no conflicts",not provided|Fabry disease,"Jul 15, 2021",886044909,germline,,,,,,,not_in_amenability_table
+167135,c.1024C>G,p.Arg342Gly,ClinVar,Likely pathogenic,"criteria provided, single submitter",not provided,"Apr 22, 2014",104894843,germline,,,,,,,not_in_amenability_table
+10743,c.1024C>T,p.Arg342Ter,ClinVar,Pathogenic,"criteria provided, multiple submitters, no conflicts",Fabry disease|not provided|GLA-related disorder,"May 21, 2026",104894843,germline,,,,,,,not_in_amenability_table
+10742,c.1025G>A,p.Arg342Gln,ClinVar,Pathogenic,"criteria provided, multiple submitters, no conflicts",Fabry disease|not provided,"Dec 03, 2025",28935493,germline,,,,,,,not_in_amenability_table
+4087621,c.1025G>C,p.Arg342Pro,ClinVar,Likely pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 19, 2025",28935493,germline,,,,,,,not_in_amenability_table
+4087620,c.1025G>T,p.Arg342Leu,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 19, 2025",-1,germline,,,,,,,not_in_amenability_table
+4087041,c.1025del,p.Arg342fs,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 15, 2025",-1,germline,,,,,,,not_in_amenability_table
+1324471,c.1028C>T,p.Pro343Leu,ClinVar,Conflicting classifications of pathogenicity,"criteria provided, conflicting classifications",not provided|Fabry disease,"Oct 03, 2025",1555984858,germline,,,,,,,not_in_amenability_table
+222127,c.1028del,p.Pro343fs,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Mar 06, 2020",869312215,germline,,,,,,,not_in_amenability_table
+4087463,c.102T>A,p.Asn34Lys,ClinVar,Likely pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 19, 2025",-1,germline,,,,,,,amenable
+1770904,c.102T>C,p.Asn34=,ClinVar,Likely benign,"criteria provided, single submitter",Cardiovascular phenotype,"Sep 18, 2020",2520945054,germline,,,,,,,not_in_amenability_table
+4087459,c.102T>G,p.Asn34Lys,ClinVar,Likely pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 19, 2025",-1,germline,,,,,,,amenable
+4087622,c.1031T>C,p.Leu344Pro,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 19, 2025",869312216,germline,,,,,,,not_in_amenability_table
+967156,c.1031_1034dup,p.Gly346fs,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Nov 14, 2019",398123198,germline,,,,,,,not_in_amenability_table
+4087042,c.1031dup,p.Ser345fs,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 15, 2025",-1,germline,,,,,,,not_in_amenability_table
+4087150,c.1032_1058del,p.Ser345_Met353del,ClinVar,Likely pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 15, 2025",-1,germline,,,,,,,not_in_amenability_table
+4087623,c.1033T>C,p.Ser345Pro,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 19, 2025",-1,germline,,,,,,,not_in_amenability_table
+92538,c.1033_1034del,p.Ser345fs,ClinVar,Pathogenic,"criteria provided, multiple submitters, no conflicts",Fabry disease|not provided,"Dec 06, 2025",398123198,germline,,,,,,,not_in_amenability_table
+4087190,c.1034C>G,p.Ser345Ter,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 15, 2025",-1,germline,,,,,,,not_in_amenability_table
+1717130,c.1037G>C,p.Gly346Ala,ClinVar,Uncertain significance,"criteria provided, single submitter",Fabry disease,"Aug 20, 2022",1928138185,germline,,,,,,,not_in_amenability_table
+245896,c.1037del,p.Gly346fs,ClinVar,Pathogenic,"criteria provided, multiple submitters, no conflicts",not provided|Fabry disease,"May 21, 2026",879253990,germline,,,,,,,not_in_amenability_table
+1044062,c.1038C>T,p.Gly346=,ClinVar,Likely benign,"criteria provided, single submitter",Fabry disease,"Feb 17, 2024",1928138032,germline,,,,,,,not_in_amenability_table
+4087487,c.103G>A,p.Gly35Arg,ClinVar,Likely pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 19, 2025",-1,germline,,,,,,,amenable
+4087481,c.103G>C,p.Gly35Arg,ClinVar,Likely pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 19, 2025",-1,germline,,,,,,,amenable
+10754,c.1040dup,p.Leu347fs,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 15, 2025",1928137855,germline,,,,,,,not_in_amenability_table
+1651950,c.1041A>G,p.Leu347=,ClinVar,Likely benign,"criteria provided, single submitter",Fabry disease,"Apr 25, 2022",1555984853,germline,,,,,,,not_in_amenability_table
+4087043,c.1041dup,p.Ala348fs,ClinVar,Pathogenic,"criteria provided, single submitter",Fabry disease,"Sep 15, 2025",-1,germline,,,,,,,not_in_amenability_table
+684856,c.1042G>C,p.Ala348Pro,ClinVar,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",Primary familial hypertrophic cardiomyopathy|Fabry disease,"Sep 19, 2025",1603037717,germline,,,,,,,not_in_amenability_table

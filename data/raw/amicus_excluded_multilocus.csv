@@ -1,0 +1,70 @@
+variant_id,amenability_status,legacy_nt_change,hgvs_c_change,protein_change,variant_type
+amenable_1,amenable,160C>G; 937G>T,C160G; G937T,L54V/D313Y,multi_locus
+amenable_4,amenable,c.[11G>T; 620A>C],c.G11T/A620C,R4M/Y207S,multi_locus
+amenable_64,amenable,c.[70T>A; 1255A>G],c.T70A/A1255G,W24R/N419D,multi_locus
+amenable_148,amenable,c.[157A>C; 158A>T],c.A157C/A158T,N53L,compound_codon
+amenable_165,amenable,c.[164A>T; 170A>T],c.A164T/A170T,D55V/Q57L,multi_locus
+amenable_227,amenable,c.[218C>T; 525C>G],c.C218T/C525G,A73V/D175E,multi_locus
+amenable_269,amenable,c.[253G>A; 254G>A],c.G253A/G254A,G85N,compound_codon
+amenable_270,amenable,c.[253G>A; 254G>T; 255T>G],c.G253A/G254T/T255G,G85M,compound_codon
+amenable_385,amenable,c.[399T>G; 434T>C],c.T399G/T434C,I133M/F145S,multi_locus
+amenable_496,amenable,c.[496C>G; 497T>G],c.C496G/T497G,L166G,compound_codon
+amenable_592,amenable,c.[578G>T; 936G>C],c.G578T/G936C,R193M/Q312H,multi_locus
+amenable_627,amenable,c.[602C>T; 937G>T],c.C602T/G937T,S201F/D313Y,multi_locus
+amenable_678,amenable,c.[644A>G; 937G>T],c.A644G/G937T,N215S/D313Y,multi_locus
+amenable_820,amenable,c.760-762delGTT or c.761-763del,c.760_762delGTT or c.761_763del,p.V254del,alternative
+amenable_878,amenable,c.[811G>A; 937G>T],c.G811A/G937T,G271S/D313Y,multi_locus
+amenable_1006,amenable,c.[937G>T; 1232G>A],c.G937T/G1232A,D313Y/G411D,multi_locus
+non_amenable_3,non_amenable,c.1A>T; c.2T>A; c.3G>C,c.A1T; c.T2A; c.G3C,M1Y,compound_codon
+non_amenable_46,non_amenable,c.[138C>G; 153G>T; 167G>T],c.C138G/G153T/G167T,H46Q/M51I/C56F,multi_locus
+non_amenable_81,non_amenable,c.[196G>C; 334C>T],c.G196C/C334T,E66Q/R112C,multi_locus
+non_amenable_82,non_amenable,c.[196G>C; 335G>A],c.G196C/G335A,E66Q/R112H,multi_locus
+non_amenable_83,non_amenable,c.[196G>C; 1061T>A],c.G196C/T1061A,E66Q/I354K,multi_locus
+non_amenable_125,non_amenable,c.[280T>A; 281G>C],c.T280A/G281C,C94T,compound_codon
+non_amenable_147,non_amenable,c.[335G>A; 937G>T],c.G335A/G937T,R112H/D313Y,multi_locus
+non_amenable_156,non_amenable,c.[358C>T; 359T>C],c.C358T/T359C,L120S,compound_codon
+non_amenable_158,non_amenable,c.[359T>C; 361G>A],c.T359C/G361A,L120P/A121T,multi_locus
+non_amenable_166,non_amenable,c.[374A>T; 383G>A],c.A374T/G383A,H125L/G128E,multi_locus
+non_amenable_262,non_amenable,c.[604T>C; 644A>G],c.T604C/A644G,C202R/N215S,multi_locus
+non_amenable_277,non_amenable,c.[644A>G; 811G>A],c.A644G/G811A,N215S/G271S,multi_locus
+non_amenable_278,non_amenable,c.[644A>G; 811G>A; 937G>T],c.A644G/G811A/G937T,N215S/G271S/D313Y,multi_locus
+non_amenable_344,non_amenable,c.[790G>T; 805G>A],c.G790T/G805A,D264Y/V269M,multi_locus
+non_amenable_362,non_amenable,c.[806T>G; 937G>T],c.T806G/G937T,V269G/D313Y,multi_locus
+non_amenable_388,non_amenable,c.[836A>T; 902G>A],c.A836T/G902A,Q279L/R301Q,multi_locus
+non_amenable_443,non_amenable,c.963_964GG>CA,c.G963C/G964A,Q321H/D322N,simple
+non_amenable_483,non_amenable,c.[1067G>A; 1078G>C],c.G1067A/G1078C,R356Q/G360R,multi_locus
+non_amenable_534,non_amenable,c.1247_1248CT>AA,c.C1247A/T1248A,L417K,simple
+non_amenable_558,non_amenable,c.134_138delTGCACinsGCTCG,c.134_138delTGCACinsGCTCG,L45R/H46S,simple
+non_amenable_582,non_amenable,c.336del18,c.336del18,p.113del6aa,simple
+non_amenable_584,non_amenable,c.354_368del15,c.354_368del15,Q119_Y123del5,simple
+non_amenable_585,non_amenable,c.358del6,c.358del6,p.120del2aa/L120H,simple
+non_amenable_615,non_amenable,c.650_663dup14,c.650_663dup14,p.Q221fs*23,simple
+non_amenable_616,non_amenable,c.672_673ins37,c.672_673ins37,p.H225Tfs*18,simple
+non_amenable_629,non_amenable,c.741ins9,c.741ins9,p.247ins3,simple
+non_amenable_640,non_amenable,c.802-2_802-3delCA,c.802-2_802-3delCA,UNKNOWN,simple
+non_amenable_678,non_amenable,c.1017_1020delins24,c.1017_1020delins24,p.V339fs*7,simple
+non_amenable_708,non_amenable,c.1102delGinsTTATAC,c.1102delGinsTTATAC,p.A368delinsFYfs*23,simple
+non_amenable_734,non_amenable,c.1208ins21,c.1208ins21,UNKNOWN,simple
+non_amenable_742,non_amenable,g.941_5845del,c.1-179_369+577del,p.?(Exon1_2del),simple
+non_amenable_743,non_amenable,g.2594_10904dup,c.195-2500_999+197dup,UNKNOWN,simple
+non_amenable_744,non_amenable,g.2934_6378del,c.194+1561_370-891del,UNKNOWN (E66_Y123del; del Exon2?),simple
+non_amenable_745,non_amenable,g.2979_6442del,c.194+1606_369+1174del,UNKNOWN (E66_Y123del; del Exon2),simple
+non_amenable_746,non_amenable,g.3260_6410del,c.194+1887_370-859del,UNKNOWN (E66_Y123del; del Exon2?),simple
+non_amenable_747,non_amenable,g.3396_6012del,c.194+2023_370-1257del,UNKNOWN (E66_Y123del; del Exon2?),simple
+non_amenable_748,non_amenable,g.3422_6041delinsCG,c.194+2049_369+773del2620insCG,UNKNOWN,simple
+non_amenable_749,non_amenable,g.5052_5079del28,g.5052_5079del28,UNKNOWN,simple
+non_amenable_750,non_amenable,g.5106_5919delins231,c.207_369+651del814ins231,UNKNOWN (del Exon2?),simple
+non_amenable_751,non_amenable,g.5271_9366del4096insT,c.369+3_639+954del3129insT,UNKNOWN (del Exon3 and 4?),simple
+non_amenable_752,non_amenable,g.6009_9741del,c.369+741_640-390del,UNKNOWN (del Exon3 and 4?),simple
+non_amenable_753,non_amenable,g.6547_9783del,c.369+1279_640-348del,UNKNOWN (del Exon3 and 4?),simple
+non_amenable_754,non_amenable,g.6736_11545del,c.370-533_c.1290+277del,UNKNOWN (del Exon3_7?),simple
+non_amenable_755,non_amenable,g.7086_7487del,c.370-183_547+41del,UNKNOWN (del Exon3?),simple
+non_amenable_756,non_amenable,g.[10237_11932del; 11933_12083inv; 12084_12097del],g.10237_11932del/11933_12083inv/12084_12097del,UNKNOWN,compound_codon
+non_amenable_757,non_amenable,g.>5.5kbdel to 3UTR,c.?_?del,UNKNOWN (delExon3_3’UTR?),simple
+non_amenable_758,non_amenable,g.?_?del,c.195-?_547+?del,UNKNOWN (del Exon2_3?),simple
+non_amenable_759,non_amenable,g.?_?del,c.?_?del,UNKNOWN (del Exon5_7?),simple
+non_amenable_760,non_amenable,g.?_?del,c.?_?,UNKNOWN (del Exon1_2?),simple
+non_amenable_761,non_amenable,g.?_?dup,c.?_?dup,UNKNOWN (Exon2_4dup?),simple
+non_amenable_763,non_amenable,IVS1+39delAT,c.194+39delAT,UNKNOWN,simple
+non_amenable_767,non_amenable,IVS1-2A>G; IVS1-49T>C,c.195-2A>G/195-49T>C,UNKNOWN,compound_codon
+non_amenable_803,non_amenable,IVS6-10G>A; IVS6-22C>T,c.1000-10G>A/1000-22C>T,UNKNOWN,compound_codon

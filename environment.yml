@@ -1,0 +1,17 @@
+# Versions pinned to the environment in which the analysis and figures were last run.
+name: gla
+channels: [conda-forge, bioconda]
+dependencies:
+  - python=3.13
+  - numpy=2.5.3
+  - scipy=1.18.1
+  - pandas=3.0.5
+  - matplotlib=3.11.2
+  - biopython=1.88
+  - statsmodels=0.15.0          # scripts/13_multivariable.py (GEE)
+  - pyarrow
+  - pyyaml
+  - pytest
+# Not imported by the pipeline; kept only if the orthologue alignment is ever
+# recomputed locally instead of being taken pre-aligned from the source export:
+#  - mafft

@@ -1,0 +1,21 @@
+Data licence (applies to data/ and results/, not to the source code)
+
+The derived tables and figures in this repository (data/interim, data/processed,
+results/) are released under the Creative Commons Attribution 4.0 International
+licence (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+Third-party inputs in data/raw keep the terms of their own sources and are
+redistributed here only where those terms permit:
+
+  - ClinVar (NCBI)            public domain, redistributed
+  - gnomAD v4.1.1 (Broad)     free of restrictions, redistributed
+  - GenBank NM_000169.3       public domain, redistributed
+  - PDB 3GXT                  CC0, redistributed
+  - Ensembl release 116       no restrictions on use, redistributed
+  - Amicus Galafold
+    amenability table         proprietary, NOT redistributed. The file
+                              data/raw/galafold_amenability.csv is excluded by
+                              .gitignore. Its SHA-256 is recorded in
+                              data/raw/MANIFEST.jsonl so that a locally obtained
+                              copy can be verified; see README, "Obtaining the
+                              amenability table".

@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this pipeline, please cite both the software and the paper."
+title: "gla-variant-pipeline: harmonisation and three-level analysis of GLA variants"
+abstract: >-
+  Reproducible pipeline that harmonises ClinVar, gnomAD v4.1.1 and the Galafold
+  amenability table against NM_000169.3 and analyses the resulting variant set on
+  three levels: CpG context, structure on PDB 3GXT, and conservation across
+  orthologues.
+type: software
+authors:
+  - family-names: "<SURNAME>"
+    given-names: "<GIVEN NAME>"
+    affiliation: "<INSTITUTION>"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+license: MIT
+repository-code: "https://github.com/<account>/gla-variant-pipeline"
+version: "1.0.0"
+date-released: "2026-11-09"
+keywords:
+  - Fabry disease
+  - GLA
+  - alpha-galactosidase A
+  - variant interpretation
+  - migalastat amenability
+preferred-citation:
+  type: article
+  title: "Genetic heterogeneity of GLA as a determinant of therapeutic choice in Fabry disease"
+  authors:
+    - family-names: "<SURNAME>"
+      given-names: "<GIVEN NAME>"
+  year: 2026
+  journal: "<JOURNAL>"
+  doi: "<DOI once assigned>"

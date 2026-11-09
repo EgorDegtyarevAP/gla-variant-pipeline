@@ -1,0 +1,12 @@
+{
+ "rows_total": 923,
+ "rows_canonical": 799,
+ "rows_other_transcripts": 124,
+ "other_transcripts": {
+  "ENST00000480513.6": 35,
+  "ENST00000674634.2": 34,
+  "ENST00000468823.2": 31,
+  "ENST00000649178.1": 23,
+  "ENST00000676156.1": 1
+ }
+}

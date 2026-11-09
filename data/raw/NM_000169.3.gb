@@ -1,0 +1,270 @@
+LOCUS       NM_000169               1318 bp    mRNA    linear   PRI 10-SEP-2026
+DEFINITION  Homo sapiens galactosidase alpha (GLA), transcript variant 1, mRNA.
+ACCESSION   NM_000169
+VERSION     NM_000169.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1318)
+  AUTHORS   Schaffer,L.V., Hu,M., Qian,G., Moon,K.M., Pal,A., Soni,N.,
+            Latham,A.P., Pontano Vaites,L., Tsai,D., Mattson,N.M., Licon,K.,
+            Bachelder,R., Cesnik,A., Gaur,I., Le,T., Leineweber,W., Palar,A.,
+            Pulido,E., Qin,Y., Zhao,X., Churas,C., Lenkiewicz,J., Chen,J.,
+            Ono,K., Pratt,D., Zage,P., Echeverria,I., Sali,A., Harper,J.W.,
+            Gygi,S.P., Foster,L.J., Huttlin,E.L., Lundberg,E. and Ideker,T.
+  TITLE     Multimodal cell maps as a foundation for structural and functional
+            genomics
+  JOURNAL   Nature 642 (8066), 222-231 (2025)
+   PUBMED   40205054
+  REMARK    Erratum:[Nature. 2025 Oct;646(8086):E16. doi:
+            10.1038/s41586-025-09648-x. PMID: 41039152]
+REFERENCE   2  (bases 1 to 1318)
+  AUTHORS   Lenders,M., Rudolph,E. and Brand,E.
+  TITLE     Impact of ER stress and the unfolded protein response on Fabry
+            disease
+  JOURNAL   EBioMedicine 115, 105733 (2025)
+   PUBMED   40300326
+  REMARK    Review article
+REFERENCE   3  (bases 1 to 1318)
+  AUTHORS   Peng,Y., Pan,M., Wang,Y., Shen,Z., Xu,J., Xiong,F., Xiao,H. and
+            Miao,Y.
+  TITLE     Identification of a novel nonsense mutation in alpha-galactosidase
+            A that causes Fabry disease in a Chinese family
+  JOURNAL   Ren Fail 46 (2), 2362391 (2024)
+   PUBMED   38847497
+  REMARK    GeneRIF: Identification of a novel nonsense mutation in
+            alpha-galactosidase A that causes Fabry disease in a Chinese
+            family.
+REFERENCE   4  (bases 1 to 1318)
+  AUTHORS   Li,P., Xi,Y., Zhang,Y., Samad,A., Lan,W., Wu,Y., Zhao,J., Chen,G.,
+            Wu,C. and Xiong,Q.
+  TITLE     GLA Mutations Suppress Autophagy and Stimulate Lysosome Generation
+            in Fabry Disease
+  JOURNAL   Cells 13 (5), 437 (2024)
+   PUBMED   38474401
+  REMARK    GeneRIF: GLA Mutations Suppress Autophagy and Stimulate Lysosome
+            Generation in Fabry Disease.
+REFERENCE   5  (bases 1 to 1318)
+  AUTHORS   Romani,I., Sarti,C., Nencini,P., Pracucci,G., Zedde,M., Cianci,V.,
+            Nucera,A., Moller,J., Orsucci,D., Toni,D., Palumbo,P., Casella,C.,
+            Pinto,V., Barbarini,L., Bella,R., Scoditti,U., Ragno,M.,
+            Mezzapesa,D.M., Tassi,R., Volpi,G., Diomedi,M., Bigliardi,G.,
+            Cavallini,A.M., Chiti,A., Ricci,S., Cecconi,E., Linoli,G.,
+            Sacco,S., Rasura,M., Giordano,A., Bonetti,B., Melis,M.,
+            Cariddi,L.P., Dossi,R.C., Grisendi,I., Aguglia,U., Di Ruzza,M.R.,
+            Melis,M., Sbardella,E., Vista,M., Valenti,R., Musolino,R.F.,
+            Passarella,B., Direnzo,V., Pennisi,G., Genovese,A., Di Marzio,F.,
+            Sgobio,R., Acampa,M., Nannucci,S., Dagostino,F., Dell'Acqua,M.L.,
+            Cuzzoni,M.G., Picchioni,A., Calchetti,B., Notturno,F., Di Lisi,F.,
+            Forlivesi,S., Delodovici,M.L., Buechner,S.C., Biagini,S.,
+            Accavone,D., Manna,R., Morrone,A. and Inzitari,D.
+  TITLE     Prevalence of Fabry disease and GLA variants in young patients with
+            acute stroke: The challenge to widen the screening. The
+            Fabry-Stroke Italian Registry
+  JOURNAL   J Neurol Sci 457, 122905 (2024)
+   PUBMED   38295534
+  REMARK    GeneRIF: Prevalence of Fabry disease and GLA variants in young
+            patients with acute stroke: The challenge to widen the screening.
+            The Fabry-Stroke Italian Registry.
+REFERENCE   6  (bases 1 to 1318)
+  AUTHORS   Mehta,A. and Hughes,D.A.
+  TITLE     Fabry Disease
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301469
+REFERENCE   7  (bases 1 to 1318)
+  AUTHORS   Ioannou,Y.A., Bishop,D.F. and Desnick,R.J.
+  TITLE     Overexpression of human alpha-galactosidase A results in its
+            intracellular aggregation, crystallization in lysosomes, and
+            selective secretion
+  JOURNAL   J Cell Biol 119 (5), 1137-1150 (1992)
+   PUBMED   1332979
+REFERENCE   8  (bases 1 to 1318)
+  AUTHORS   Ishii,S., Sakuraba,H. and Suzuki,Y.
+  TITLE     Point mutations in the upstream region of the alpha-galactosidase A
+            gene exon 6 in an atypical variant of Fabry disease
+  JOURNAL   Hum Genet 89 (1), 29-32 (1992)
+   PUBMED   1315715
+REFERENCE   9  (bases 1 to 1318)
+  AUTHORS   von Scheidt,W., Eng,C.M., Fitzmaurice,T.F., Erdmann,E., Hubner,G.,
+            Olsen,E.G., Christomanou,H., Kandolf,R., Bishop,D.F. and
+            Desnick,R.J.
+  TITLE     An atypical variant of Fabry's disease with manifestations confined
+            to the myocardium
+  JOURNAL   N Engl J Med 324 (6), 395-399 (1991)
+   PUBMED   1846223
+REFERENCE   10 (bases 1 to 1318)
+  AUTHORS   Dean,K.J. and Sweeley,C.C.
+  TITLE     Studies on human liver alpha-galactosidases. I. Purification of
+            alpha-galactosidase A and its enzymatic properties with glycolipid
+            and oligosaccharide substrates
+  JOURNAL   J Biol Chem 254 (20), 9994-10000 (1979)
+   PUBMED   39940
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL035422.12, BC002689.2 and
+            DB370480.1.
+            
+            On Nov 12, 2019 this sequence version replaced NM_000169.2.
+            
+            Summary: This gene encodes a homodimeric glycoprotein that
+            hydrolyses the terminal alpha-galactosyl moieties from glycolipids
+            and glycoproteins. This enzyme predominantly hydrolyzes ceramide
+            trihexoside, and it can catalyze the hydrolysis of melibiose into
+            galactose and glucose. A variety of mutations in this gene affect
+            the synthesis, processing, and stability of this enzyme, which
+            causes Fabry disease, a rare lysosomal storage disorder that
+            results from a failure to catabolize alpha-D-galactosyl glycolipid
+            moieties. [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AK222627.1, X05790.1 [ECO:0000332]
+            RNAseq introns              :: mixed sample support SAMEA1965299,
+                                           SAMEA1966682 [ECO:0006172]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000218516.4/ ENSP00000218516.4
+            RefSeq Select criteria :: based on manual assertion, conservation,
+                                      expression
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-16                AL035422.12        89686-89701         c
+            17-1314             BC002689.2         1-1298
+            1315-1318           DB370480.1         13-16               c
+FEATURES             Location/Qualifiers
+     source          1..1318
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xq22.1"
+     gene            1..1318
+                     /gene="GLA"
+                     /gene_synonym="GALA"
+                     /note="galactosidase alpha"
+                     /db_xref="GeneID:2717"
+                     /db_xref="HGNC:HGNC:4296"
+                     /db_xref="MIM:300644"
+     exon            1..216
+                     /gene="GLA"
+                     /gene_synonym="GALA"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             23..1312
+                     /gene="GLA"
+                     /gene_synonym="GALA"
+                     /EC_number="3.2.1.22"
+                     /note="isoform b precursor is encoded by transcript
+                     variant 1; alpha-D-galactosidase A; alpha-gal A;
+                     melibiase; alpha-D-galactoside galactohydrolase 1;
+                     agalsidase alfa; alpha-galactosidase A;
+                     galactosylgalactosylglucosylceramidase GLA"
+                     /codon_start=1
+                     /product="alpha-galactosidase A isoform b precursor"
+                     /protein_id="NP_000160.1"
+                     /db_xref="CCDS:CCDS14484.1"
+                     /db_xref="GeneID:2717"
+                     /db_xref="HGNC:HGNC:4296"
+                     /db_xref="MIM:300644"
+                     /translation="MQLRNPELHLGCALALRFLALVSWDIPGARALDNGLARTPTMGW
+                     LHWERFMCNLDCQEEPDSCISEKLFMEMAELMVSEGWKDAGYEYLCIDDCWMAPQRDS
+                     EGRLQADPQRFPHGIRQLANYVHSKGLKLGIYADVGNKTCAGFPGSFGYYDIDAQTFA
+                     DWGVDLLKFDGCYCDSLENLADGYKHMSLALNRTGRSIVYSCEWPLYMWPFQKPNYTE
+                     IRQYCNHWRNFADIDDSWKSIKSILDWTSFNQERIVDVAGPGGWNDPDMLVIGNFGLS
+                     WNQQVTQMALWAIMAAPLFMSNDLRHISPQAKALLQDKDVIAINQDPLGKQGYQLRQG
+                     DNFEVWERPLSGLAWAVAMINRQEIGGPRSYTIAVASLGKGVACNPACFITQLLPVKR
+                     KLGFYEWTSRLRSHINPTGTVLLQLENTMQMSLKDLL"
+     sig_peptide     23..115
+                     /gene="GLA"
+                     /gene_synonym="GALA"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     mat_peptide     116..1309
+                     /gene="GLA"
+                     /gene_synonym="GALA"
+                     /product="Alpha-galactosidase A. /id=PRO_0000001004"
+                     /note="propagated from UniProtKB/Swiss-Prot (P06280.1)"
+     misc_feature    437..439
+                     /gene="GLA"
+                     /gene_synonym="GALA"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:15003450; propagated from
+                     UniProtKB/Swiss-Prot (P06280.1); glycosylation site"
+     misc_feature    596..598
+                     /gene="GLA"
+                     /gene_synonym="GALA"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:15003450; propagated from
+                     UniProtKB/Swiss-Prot (P06280.1); glycosylation site"
+     misc_feature    665..667
+                     /gene="GLA"
+                     /gene_synonym="GALA"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:15003450,
+                     ECO:0000269|PubMed:19159218; propagated from
+                     UniProtKB/Swiss-Prot (P06280.1); glycosylation site"
+     exon            217..391
+                     /gene="GLA"
+                     /gene_synonym="GALA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            392..569
+                     /gene="GLA"
+                     /gene_synonym="GALA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            570..661
+                     /gene="GLA"
+                     /gene_synonym="GALA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            662..823
+                     /gene="GLA"
+                     /gene_synonym="GALA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            824..1021
+                     /gene="GLA"
+                     /gene_synonym="GALA"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1022..1318
+                     /gene="GLA"
+                     /gene_synonym="GALA"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1294..1299
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GLA"
+                     /gene_synonym="GALA"
+                     /note="hexamer: ATTAAA"
+     polyA_site      1318
+                     /gene="GLA"
+                     /gene_synonym="GALA"
+                     /note="major polyA site"
+ORIGIN      
+        1 atgctgtccg gtcaccgtga caatgcagct gaggaaccca gaactacatc tgggctgcgc
+       61 gcttgcgctt cgcttcctgg ccctcgtttc ctgggacatc cctggggcta gagcactgga
+      121 caatggattg gcaaggacgc ctaccatggg ctggctgcac tgggagcgct tcatgtgcaa
+      181 ccttgactgc caggaagagc cagattcctg catcagtgag aagctcttca tggagatggc
+      241 agagctcatg gtctcagaag gctggaagga tgcaggttat gagtacctct gcattgatga
+      301 ctgttggatg gctccccaaa gagattcaga aggcagactt caggcagacc ctcagcgctt
+      361 tcctcatggg attcgccagc tagctaatta tgttcacagc aaaggactga agctagggat
+      421 ttatgcagat gttggaaata aaacctgcgc aggcttccct gggagttttg gatactacga
+      481 cattgatgcc cagacctttg ctgactgggg agtagatctg ctaaaatttg atggttgtta
+      541 ctgtgacagt ttggaaaatt tggcagatgg ttataagcac atgtccttgg ccctgaatag
+      601 gactggcaga agcattgtgt actcctgtga gtggcctctt tatatgtggc cctttcaaaa
+      661 gcccaattat acagaaatcc gacagtactg caatcactgg cgaaattttg ctgacattga
+      721 tgattcctgg aaaagtataa agagtatctt ggactggaca tcttttaacc aggagagaat
+      781 tgttgatgtt gctggaccag ggggttggaa tgacccagat atgttagtga ttggcaactt
+      841 tggcctcagc tggaatcagc aagtaactca gatggccctc tgggctatca tggctgctcc
+      901 tttattcatg tctaatgacc tccgacacat cagccctcaa gccaaagctc tccttcagga
+      961 taaggacgta attgccatca atcaggaccc cttgggcaag caagggtacc agcttagaca
+     1021 gggagacaac tttgaagtgt gggaacgacc tctctcaggc ttagcctggg ctgtagctat
+     1081 gataaaccgg caggagattg gtggacctcg ctcttatacc atcgcagttg cttccctggg
+     1141 taaaggagtg gcctgtaatc ctgcctgctt catcacacag ctcctccctg tgaaaaggaa
+     1201 gctagggttc tatgaatgga cttcaaggtt aagaagtcac ataaatccca caggcactgt
+     1261 tttgcttcag ctagaaaata caatgcagat gtcattaaaa gacttacttt aaaatgtt
+//
+
