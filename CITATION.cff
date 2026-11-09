@@ -16,3 +16,8 @@ keywords:
   - alpha-galactosidase A
   - variant interpretation
   - migalastat amenability
+  identifiers:
+    - type: doi
+      value: "10.5281/zenodo.24077498"
+      description: "Concept DOI for all versions"
+  repository-code: "https://github.com/<account>/gla-variant-pipeline"
