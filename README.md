@@ -82,6 +82,7 @@ Third-party inputs keep their own terms; see `LICENSE-DATA` for the per-source s
 
 ## Citing
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24077498.svg)](https://doi.org/10.5281/zenodo.24077498)
+
 See `CITATION.cff`. Cite the paper for the findings and the archived release (Zenodo DOI) for the
 code and data.
 
