@@ -1,0 +1,9 @@
+sample,start,end,n_observed,n_expected
+P/LP missense (S_path),29,62,76,47.85614035087719
+P/LP missense (S_path),253,305,120,75.11333333333333
+S_path non-amenable,34,66,39,26.16
+S_path non-amenable,77,106,35,22.603157894736842
+S_path non-amenable,154,175,30,17.09578947368421
+S_path non-amenable,255,288,50,26.504210526315788
+S_path amenable,24,55,36,18.416842105263157
+S_path amenable,285,323,43,22.594736842105263

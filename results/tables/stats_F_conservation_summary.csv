@@ -1,0 +1,7 @@
+quantity,value,note
+valid positions (ortholog coverage >= threshold),410.0,of 429; kept orthologs: 177
+"median conservation (1 - H/log2 20), weighted",0.8142142040587759,unweighted: 0.864
+share of positions where >= 90% of orthologs carry the human residue,0.47560975609756095,
+share of positions where >= 50% of orthologs differ from human,0.2731707317073171,sense (b): low positional conservation
+positions with >= 1 ClinVar P/LP missense,234.0,57% of valid positions - sense (a): spectrum heterogeneity
+"Spearman rho, conservation vs number of P/LP missense per position",0.637230396250564,"p = 4.30e-48, n = 410 positions"

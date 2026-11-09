@@ -1,0 +1,2 @@
+comparison,added_terms,wald_chi2,df,p,QIC_full,QIC_structure_only
+full vs structure-only,z_conservation+z_blosum62+alt_seen_i,119.5642,3,0.0,1433.5025,1640.7873
