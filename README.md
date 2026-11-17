@@ -1,6 +1,4 @@
 # GLA variant analysis pipeline
-
-Reproducible pipeline for the review "Генетическая гетерогенность GLA и границы применимости терапий при болезни Фабри" (рабочее название).
 Principle: raw files -> scripts -> tables/figures. No manual edits of any file in data/interim, data/processed or results.
 
 ## Run
